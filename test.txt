@@ -1,3 +1,2 @@
 This is line 1.
-Edited by temp2.
-by temp2
+Edited by branch temp1.
